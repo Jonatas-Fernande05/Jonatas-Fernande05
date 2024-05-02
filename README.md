@@ -1,4 +1,4 @@
-# Óla! Eu Sou Jonatas-Fernand05
+# Óla! Eu Sou Jonatas-Fernandes
 # Desenvolvedor Front-End
 - 💬 Pretendo trabalhar como Front-end
 - 🔗 Gosto de estudar diversas linguagens mas a que eu estou priorizando hoje e ReactJs! .
