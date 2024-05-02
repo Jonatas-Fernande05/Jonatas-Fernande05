@@ -1,4 +1,5 @@
 # Óla! Eu Sou Jonatas-Fernand05
+# Desenvolvedor Front-End
 - 💬 Pretendo trabalhar como Front-end
 - 🔗 Gosto de estudar diversas linguagens mas a que eu estou priorizando hoje e ReactJs! .
 - 🎮 Gosto de Ler e Jogar Jogos de Console.
@@ -18,4 +19,4 @@
   <a href="https://www.linkedin.com/in/jonatas-fernandes-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![snake gif](https://github.com/Jonatas-Fernand05/Jonatas-Fernand05/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Jonatas-Fernande05/Jonatas-Fernande05/blob/output/github-contribution-grid-snake.gif)
