@@ -1,9 +1,8 @@
-# Óla! Eu Sou Jonatas-Fernandes
-# Desenvolvedor Full-stack
-- 💬 Pretendo trabalhar como Front-end
-- 🔗 Gosto de estudar diversas linguagens mas a que eu estou priorizando hoje e ReactJs! .
-- 🎮 Gosto de Ler e Jogar Jogos de Console.
-
+# Hello! I'm Jonatas-Fernandes
+# Full-stack Developer
+- 💬 I intend to work as a Front-end
+- 🔗 I like to study different languages ​​but the one I'm prioritizing today is ReactJs! .
+- 🎮 I like to read and play console games.
   <div style="display: inline_block"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonatas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
